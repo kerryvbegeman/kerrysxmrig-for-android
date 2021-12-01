@@ -1,0 +1,2 @@
+# xmr-miner
+kerry
